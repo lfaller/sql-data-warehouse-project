@@ -1,5 +1,7 @@
 # Start the sql server in docker on a mac
 
+Note: you should come up with a better password...
+
 ```bash
 docker run -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=YourStrong@Password123" \
    -p 1433:1433 --name sqlserver --hostname sqlserver \
