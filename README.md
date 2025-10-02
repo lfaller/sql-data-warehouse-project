@@ -6,4 +6,4 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 ## Data Flow (Sources -> Bronze Layer)
 
-[Data Flow Sources -> Bronze Layer](images/dataflow-sources-to-bronze-layer.drawio.png)
+![Data Flow Sources -> Bronze Layer](/images/dataflow-sources-to-bronze-layer.drawio.png)
